@@ -1,3 +1,4 @@
 # hello-world
 for education
-ohh
+
+main.js prints 'Hello, World'
